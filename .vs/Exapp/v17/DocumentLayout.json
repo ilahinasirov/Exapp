@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\views\\user\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\views\\user\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\dataaccesslayer\\concrete\\efdals\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:src\\dataaccesslayer\\concrete\\efdals\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950EC90B-CF54-4FBF-B431-0D3AA1126A81}|src\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\businesslayer\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950EC90B-CF54-4FBF-B431-0D3AA1126A81}|src\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:src\\businesslayer\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\dataaccesslayer\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:src\\dataaccesslayer\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950EC90B-CF54-4FBF-B431-0D3AA1126A81}|src\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\businesslayer\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950EC90B-CF54-4FBF-B431-0D3AA1126A81}|src\\BusinessLayer\\BusinessLayer.csproj|solutionrelative:src\\businesslayer\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\views\\user\\addusersfromexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\views\\user\\addusersfromexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00FC1C-5F1D-4DCE-8CF2-7B8DC7C34784}|src\\Entities\\Entities.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00FC1C-5F1D-4DCE-8CF2-7B8DC7C34784}|src\\Entities\\Entities.csproj|solutionrelative:src\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\dataaccesslayer\\concrete\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662B5789-1447-4573-9E68-0076AC1FA734}|src\\DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:src\\dataaccesslayer\\concrete\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F997EF27-E673-424F-9966-18814B0F183C}|src\\WebUi\\WebUi.csproj|solutionrelative:src\\webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nasirov\\.nuget\\packages\\epplus\\7.1.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|solutionrelative:src\\core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\core\\dataaccesslayer\\entityframework\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|solutionrelative:src\\core\\dataaccesslayer\\entityframework\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\core\\dataaccesslayer\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|solutionrelative:src\\core\\dataaccesslayer\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|c:\\users\\nasirov\\source\\repos\\exapp\\src\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D0E09-E613-4729-94D9-C8BD09928AC7}|src\\Core\\Core.csproj|solutionrelative:src\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\User\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "src\\WebUi\\Views\\User\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\User\\GetAll.cshtml",
+              "RelativeToolTip": "src\\WebUi\\Views\\User\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T08:50:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\WebUi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\WebUi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T07:59:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddUsersFromExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\User\\AddUsersFromExcel.cshtml",
+              "RelativeDocumentMoniker": "src\\WebUi\\Views\\User\\AddUsersFromExcel.cshtml",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Views\\User\\AddUsersFromExcel.cshtml",
+              "RelativeToolTip": "src\\WebUi\\Views\\User\\AddUsersFromExcel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T07:50:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\WebUi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\WebUi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:32:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\BusinessLayer\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\BusinessLayer\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\BusinessLayer\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "src\\BusinessLayer\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:35:39.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\BusinessLayer\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "src\\BusinessLayer\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\BusinessLayer\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "src\\BusinessLayer\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:58:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Concrete\\EfDals\\EfUserDal.cs",
+              "RelativeDocumentMoniker": "src\\DataAccessLayer\\Concrete\\EfDals\\EfUserDal.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Concrete\\EfDals\\EfUserDal.cs",
+              "RelativeToolTip": "src\\DataAccessLayer\\Concrete\\EfDals\\EfUserDal.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:10:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "src\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "src\\DataAccessLayer\\Abstract\\IUserDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:51:17.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "src\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "src\\Entities\\Concrete\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:35:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Concrete\\Context\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "src\\DataAccessLayer\\Concrete\\Context\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\DataAccessLayer\\Concrete\\Context\\ProjectContext.cs",
+              "RelativeToolTip": "src\\DataAccessLayer\\Concrete\\Context\\ProjectContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:56:23.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebUi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\Program.cs",
+              "RelativeToolTip": "src\\WebUi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:09:15.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebUi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\WebUi\\appsettings.json",
+              "RelativeToolTip": "src\\WebUi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T12:49:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\.nuget\\packages\\epplus\\7.1.0\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.1.0\\readme.txt",
+              "ToolTip": "C:\\Users\\Nasirov\\.nuget\\packages\\epplus\\7.1.0\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.1.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-03T11:42:57.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\Constants\\Messages.cs",
+              "RelativeToolTip": "src\\Core\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:53.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\DataAccessLayer\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\DataAccessLayer\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\DataAccessLayer\\IEntityRepository.cs",
+              "RelativeToolTip": "src\\Core\\DataAccessLayer\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:39:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\DataAccessLayer\\EntityFramework\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "src\\Core\\DataAccessLayer\\EntityFramework\\EfRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\DataAccessLayer\\EntityFramework\\EfRepositoryBase.cs",
+              "RelativeToolTip": "src\\Core\\DataAccessLayer\\EntityFramework\\EfRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:40:37.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\Exapp\\src\\Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "src\\Core\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:36:03.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
